@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:24/11/2026
 ## Reference Number:26009165
-## Name:KARTHIKEYAN K
+## Name: KARTHIKEYAN K
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -48,6 +48,7 @@ The main aim is to increase farmers' income and reduce the cost for consumers.
 4. AI predicts demand and suggests prices.
 5. Transportation is arranged.
 6. Products are delivered to buyers.
+<img width="1536" height="1024" alt="How the Agricultural Marketplace Works" src="https://github.com/user-attachments/assets/91156396-f2d0-4ffc-ace5-32c2bcc1ab91" />
 
 ## Feasibility and Viability
 1. Feasibility of the Idea
